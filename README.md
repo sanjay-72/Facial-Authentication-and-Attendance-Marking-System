@@ -8,7 +8,7 @@ This project is mainly focussed to automate the process of marking attendance an
 5. Attendance with time stamp is noted in a CSV file.<br>
 
 <h1>Usage</h1>
-1. We have to update the paths that are in the python code.<br>
+1. We have to update the paths of the images that are used in the python code.<br>
 2. Install face-recognition, serial and cv2 python packages.<br>
 3. Keep the images inside the folder specified with people's names as image names.<br>
 4. Then run the code.<br>
@@ -23,7 +23,7 @@ This project is mainly focussed to automate the process of marking attendance an
 1. Project Report <br>
 2. Project Presentation <br>
 3. Arduino code <br>
-4. Full Source code.
+4. Full python source code.
 <br>
 
 <h1>Previews</h1>
