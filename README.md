@@ -12,7 +12,7 @@ This project is mainly focussed to automate the process of marking attendance an
 2. Install face-recognition, serial and cv2 python packages.<br>
 3. Keep the images inside the folder specified with people's names as image names.<br>
 4. Then run the code.<br>
-5. A new file with name attendance will be created in that working director.<br>
+5. A new file with name attendance will be created in that working directory.<br>
 <br>
 <h1>Usage with any microcontroller</h1>
 1. All the steps above should be performed and in addition to that we have to uncomment the python code lines.<br>
